@@ -1,0 +1,4 @@
+name: SpiKot
+version: 1.0
+main: dev.energit.SpiKot.Dummy
+api-version: 1.20
